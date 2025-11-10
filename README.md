@@ -180,10 +180,17 @@ It isolates anomalies by randomly splitting data and measuring how quickly a sam
 [-]() Normalize and scale features.  
 [-]() Visualize your dataset with **scatter** and **box plots** to spot trends and outliers.
 
+
 <br><br>
 
+##  [Data Normalization and Feature Scaling]()
+
+Scaling ensures that all features contribute equally to the analysis.  
+
+Use **StandardScaler** or **MinMaxScaler** from `sklearn.preprocessing`.
 
 
+<br><br>
 
 
 
