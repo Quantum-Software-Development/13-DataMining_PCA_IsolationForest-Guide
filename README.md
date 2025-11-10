@@ -192,6 +192,33 @@ Use **StandardScaler** or **MinMaxScaler** from `sklearn.preprocessing`.
 
 <br><br>
 
+## [Visualizations: Scatter Plots and Box Plots]()
+
+Visual tools help interpret the structure of your data and spot anomalies.
+
+<br>
+
+```python
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.scatterplot(x='feature1', y='feature2', data=df)
+plt.title("Scatter Plot Example")
+plt.show()
+```
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
