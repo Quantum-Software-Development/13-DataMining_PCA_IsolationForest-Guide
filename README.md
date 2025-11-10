@@ -96,6 +96,25 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 
 
+## Table of Contents
+
+- [Introduction](#introduction)  
+- [What is PCA?](#what-is-pca)  
+- [How does PCA Work?](#how-does-pca-work)  
+- [What is the Isolation Forest Algorithm?](#what-is-the-isolation-forest-algorithm)  
+- [How does Isolation Forest Work?](#how-does-isolation-forest-work)  
+- [Steps to Prepare Your Dataset (Data Cleaning)](#steps-to-prepare-your-dataset-data-cleaning)  
+- [Data Normalization and Feature Scaling](#data-normalization-and-feature-scaling)  
+- [Visualizations: Scatter Plots and Box Plots](#visualizations-scatter-plots-and-box-plots)  
+- [Dimensionality Reduction Comparison: PCA vs. t-SNE](#dimensionality-reduction-comparison-pca-vs-t-sne)  
+- [How to Choose the Right Algorithm](#how-to-choose-the-right-algorithm)  
+- [Spiral-shaped Datasets: K-Means vs. DBSCAN](#spiral-shaped-datasets-k-means-vs-dbscan)  
+- [Evaluation Metrics for Clustering and Anomaly Detection](#evaluation-metrics-for-clustering-and-anomaly-detection)  
+- [Code Implementation](#code-implementation)  
+- [Results and Insights](#results-and-insights)  
+- [Conclusion](#conclusion)  
+- [References](#references)
+
 
 
 
