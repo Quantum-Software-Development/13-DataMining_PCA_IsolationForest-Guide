@@ -146,11 +146,11 @@ It’s like summarizing a book: you lose the extra words but keep the full meani
 
 ##  [How does PCA work ?]()
 
-1. Center and normalize your data.  
-2. Compute covariance matrix.  
-3. Extract eigenvectors (principal components).  
-4. Keep the top components explaining most of the variance.  
-5. Visualize results using biplots or scree plots.
+[1](). Center and normalize your data.  
+[2](). Compute covariance matrix.  
+[3](). Extract eigenvectors (principal components).  
+[4](). Keep the top components explaining most of the variance.  
+[5](). Visualize results using biplots or scree plots.
 
 
 <br><br>
