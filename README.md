@@ -130,17 +130,17 @@ It demonstrates how to clean data, reduce dimensionality using **PCA**, and dete
 
 All code examples are easy to follow and include visualizations for learning and experimentation.
 
+
 <br><br>
 
 
+## [What is PCA ?]()
+
+**PCA (Principal Component Analysis)** simplifies large datasets by keeping the most important patterns while reducing noise and redundancy.  
+It’s like summarizing a book: you lose the extra words but keep the full meaning.
 
 
-
-
-
-
-
-
+<br><br>
 
 
 
