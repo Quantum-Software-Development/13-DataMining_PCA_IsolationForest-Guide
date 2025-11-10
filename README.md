@@ -211,8 +211,6 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 [6](). **Liu**, F.T. et al. Isolation Forest. IEEE ICDM, 2008.
 
 
-<br><br>
-
 
 <!-- ======================================= Start Footer ===========================================  -->
 
