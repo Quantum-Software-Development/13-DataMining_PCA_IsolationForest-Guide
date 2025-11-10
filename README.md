@@ -327,11 +327,14 @@ plt.show()
 <br><br>
 
 
-| Notebook         | Google Colab                                                                                                    | Binder                                                                                                                                                                                                         |
-| ---------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PCA Analysis     | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/PCA_Analysis.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/HEAD?labpath=notebooks%2FPCA_Analysis.ipynb)              |
-| Isolation Forest | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/IsolationForest_Detection.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/HEAD?labpath=notebooks%2FIsolationForest_Detection.ipynb) |
 
+
+## ⚗️ Interactive Notebooks
+
+| Notebook | Google Colab | Binder |
+|-----------|---------------|---------|
+| PCA Analysis | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/blob/main/notebooks/PCA_Analysis.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/HEAD?labpath=notebooks%2FPCA_Analysis.ipynb) |
+| Isolation Forest | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/blob/main/notebooks/IsolationForest_Detection.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/HEAD?labpath=notebooks%2FIsolationForest_Detection.ipynb) |
 
 
 
