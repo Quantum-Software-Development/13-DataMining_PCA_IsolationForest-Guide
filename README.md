@@ -281,11 +281,11 @@ plt.title("PCA Projection of Iris Dataset")
 plt.show()
 ```
 
+<br>
+
+### 🔗 Notebook completo: [PCA_Analysis.ipynb]()
+
 <br><br>
-
-
-
-
 
 
 
