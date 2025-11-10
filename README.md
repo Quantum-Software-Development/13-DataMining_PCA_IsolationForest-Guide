@@ -14,6 +14,10 @@
 ### <p align="center"> _An easy guide for everyone!_
 
 
+<br><br>
+
+#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
 
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
@@ -29,10 +33,7 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 
 <br><br>
 
-#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-
-<br><br>
 
 <!--Confidentiality statement -->
 
