@@ -117,7 +117,14 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 
 
+<br><br>
 
+## 🚀 Quick Access
+
+| Notebook | Run in Colab |
+|-----------|---------------|
+| 🧩 PCA - Principal Component Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/blob/main/notebooks/PCA_Example.ipynb) |
+| 🌲 Isolation Forest - Anomaly Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/blob/main/notebooks/IsolationForest_Example.ipynb) |
 
 
 
